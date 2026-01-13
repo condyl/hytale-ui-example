@@ -1,0 +1,14 @@
+Group {
+  LayoutMode: Top;
+  Padding: (Top: 8);
+
+  TextButton #CloseButton {
+    Text: "Close";
+    Padding: (Bottom: 0);
+    Style: (
+      Default: (Background: #2a2f3a(0.9), LabelStyle: (TextColor: #ffffff, RenderBold: true)),
+      Hovered: (Background: #3a4150(0.9), LabelStyle: (TextColor: #ffffff)),
+      Pressed: (Background: #1d222b(0.9), LabelStyle: (TextColor: #ffffff))
+    );
+  }
+}

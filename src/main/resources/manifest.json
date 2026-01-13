@@ -1,0 +1,13 @@
+{
+  "Group": "UiPlugin",
+  "Name": "UiPlugin",
+  "Version": "1.0.0",
+  "Description": "Simple server-side plugin that opens a UI with /ui.",
+  "Authors": [
+    {
+      "Name": "YourName"
+    }
+  ],
+  "Main": "com.example.hytale.UiPlugin",
+  "ServerVersion": "*"
+}

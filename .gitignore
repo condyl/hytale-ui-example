@@ -1,0 +1,8 @@
+.gradle/
+.gradle-user/
+/**/build/
+/*.iml
+/.idea/
+/.DS_Store
+/lib/HytaleServer.jar
+/.vscode/
